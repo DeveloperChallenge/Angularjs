@@ -1,0 +1,37 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "angular directivex, routes, components, data binding, resourses etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HubMahesh/Abgular.git"
+  },
+  "keywords": [
+    "andular",
+    "directives",
+    "components",
+    "routes",
+    "data",
+    "binding",
+    "example",
+    "single",
+    "page",
+    "application",
+    "in",
+    "angular",
+    "js"
+  ],
+  "author": "Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HubMahesh/Abgular/issues"
+  },
+  "homepage": "https://github.com/HubMahesh/Abgular#readme",
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}
