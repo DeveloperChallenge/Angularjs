@@ -8,6 +8,6 @@
 * add dummy html code and link those angular and bootstrap file to your html file 
 * run the project 
 
-:thumbsup:
+:thumbsup: :thumbsup:
 
 
