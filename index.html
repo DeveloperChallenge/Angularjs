@@ -19,7 +19,7 @@
     <![endif]-->
 </head>
 
-<body>
+<body ng-app="App" ng-controller="MainController">
 
     <nav class="navbar navbar-default">
         <div class="container-fluid">
@@ -80,6 +80,7 @@
         <div clasd="row">
             <div class="col-lg-12">
                 <h1 class="text-center"> Welcome to angular js</h1>
+                <p>{{name}}</p>
             </div>
         </div>
 
@@ -94,6 +95,8 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="./bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="./bower_components/angular/angular.min.js"></script>
+    <script src="./application/app.js"></script>
+    <script src="./application/controllers/MainController.js"></script>
 </body>
 
 </html>
